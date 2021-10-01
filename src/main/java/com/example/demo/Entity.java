@@ -1,7 +1,7 @@
 package com.example.demo;
 
 public class Entity {
-	//Sample
 	private String name;
+	private String familyName;
 	private int year;
 }
