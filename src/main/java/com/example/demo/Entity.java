@@ -5,4 +5,5 @@ public class Entity {
 	private String familyName;
 	private int year;
 	private int salary;
+	private int bonus;
 }
